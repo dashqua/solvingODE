@@ -33,4 +33,4 @@ The output though is the plot of the time of computation and the value of the er
 ![GitHub Logo](/logvizualize.png)  
 
 Note: the error ir
-[equation](http://latex.codecogs.com/gif.latex?%7C%7CAx-b%7C%7C_2)
+![equation](http://latex.codecogs.com/gif.latex?%7C%7CAx-b%7C%7C_2)
