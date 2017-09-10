@@ -7,19 +7,19 @@ Plus, I didn't feel the need to organize my files into several directories becau
 
 Installation
 -
-  git clone https://github.com/dashqua/solvingODE.git  
-  cd solvingODE  
+  'git clone https://github.com/dashqua/solvingODE.git  '
+  'cd solvingODE  '
 
 Use
 -
 I suggest to start with:  
-  make install  
+  'make install'
 Then simply run:  
-  make  
+  'make'  
 To clean the current directory:  
-  make clean  
+  'make clean'  
 Further cleaning:  
-  make fclean  
+  'make fclean'  
 
 Data produced
 -
