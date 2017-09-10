@@ -10,6 +10,7 @@ Plus, I didn't feel the need to organize my files into several directories becau
   cd solvingODE
 
 #Use
+=
 I suggest to start with:
   make install
 Then simply run:
