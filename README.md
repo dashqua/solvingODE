@@ -13,12 +13,16 @@ Installation
 Use
 -
 I suggest to start with:  
+
     make install
 Then simply run:  
+
     make  
-To clean the current directory:  
+To clean the current directory:
+
     make clean  
 Further cleaning:  
+
     make fclean  
 
 Data produced
