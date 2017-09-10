@@ -3,6 +3,11 @@ FC = gfortran
 FFLAGS = -Wall -pedantic -L/usr/local/lib -llapack -lblas -c
 LDFLAGS =
 FILES = 
+FNULL = /dev/null
+
+install:
+	apt update && apt upgrade && apt dist-upgrade
+	apt install gnuplot gfortran 
 
 all: vizualize.png
 
@@ -29,3 +34,5 @@ clean:
 
 fclean: clean
 	-rm *.out *.dat *.png
+
+.PHONY: install
