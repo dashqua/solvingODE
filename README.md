@@ -31,3 +31,6 @@ The program mainly resolves a system of equation: Ax = b, where A is a tridiagon
 The output though is the plot of the time of computation and the value of the error versus the degree of liberty, that is to say the number of equations or the dimension of the squarred matrix. The whole data is eventually plotted into 2 files (normal and log representation) as following:  
 ![GitHub Logo](/vizualize.png)  
 ![GitHub Logo](/logvizualize.png)  
+
+Note: the error ir
+[equation](http://latex.codecogs.com/gif.latex?%7C%7CAx-b%7C%7C_2)
